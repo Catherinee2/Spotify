@@ -1,0 +1,1 @@
+This project analyzes user engagement on music streaming platforms by examining audio features of tracks available on Spotify. The goal is to understand how factors like danceability, energy, tempo, and acousticness influence user preferences and listening behavior. This insight can help improve personalized recommendations and playlist curation strategies.
