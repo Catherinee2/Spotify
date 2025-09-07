@@ -35,13 +35,13 @@ The dataset comes from **[Spotify Dataset](https://www.kaggle.com/datasets/mahar
 4. **Engagement Patterns**: Examined length of track, explicit vs. non-explicit, and audio features in combination.  
 5. **Key Findings**: Summarized insights into what drives engagement.  
 
-## 🔑 Key Insights
+## Key Insights
 - **Engagement is multidimensional** – no single track feature guarantees popularity.  
 - **Shorter, non-explicit tracks** are generally more successful.  
 - **Genres matter more than isolated audio features**, with cultural and emotional contexts driving user preferences.  
 - **Personalized, mood-specific recommendations** are more effective than generic suggestions.  
 
-## 🖥️ Tools Used
+## Tools Used
 - **Excel**
 - **Tableau** 
 
